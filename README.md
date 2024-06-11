@@ -21,6 +21,7 @@ Your analysis should align with the following results:
 
 Refferences:
 ---------------------------------
+None variable learning : https://realpython.com/null-in-python/
 Code correction assistance:https://chatgpt.com/c/6ea1064e-be4b-4bfb-9cd0-d2126ba138ac
 Code inspiration and learning from :https://github.com/joathanner/Python-Project/blob/master/main.py
 Code inspiration and learning from : https://www.cliffsnotes.com/tutors-problems/Python-Programming/47787696-how-to-calculate-net-change-and-average-net-change-using-python/
